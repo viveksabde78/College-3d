@@ -1,2 +1,3 @@
 # College-3d
-1st Github repo
+1st Github repo.
+Author-Vivek 
